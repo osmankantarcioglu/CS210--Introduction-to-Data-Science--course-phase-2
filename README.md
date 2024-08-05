@@ -1,2 +1,2 @@
-# CS210 'Introduction to Data Science' course part 2
+# CS210 'Introduction to Data Science' course project phase 2
  The objective of the second phase of the project is to undertake a comprehensive statistical analysis by using two distinct datasets, with the aim of deriving meaningful conclusions. This long journey involves three primary stages: initial exploration and descriptive analysis of the data, hypothesis formulation followed by hypothesis testing, and development of a singular linear regression model for predictive purposes. At the end of these three stages, the goal is to determine if there's a connection between the daily number of new COVID-19 cases and the daily price of Netflix stock.
